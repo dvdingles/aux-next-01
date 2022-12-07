@@ -42,7 +42,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .title,
@@ -103,10 +103,18 @@
   line-height: 1.5;
 }
 
-.logo {
-  height: 1em;
-  margin-left: 0.5rem;
-}
+/* .logo_aux{
+  
+      max-width: 100%;
+      width: 10%;
+      display: block;
+      object-fit: cover;        
+      object-position: center center;
+
+      border: solid 1px silver;
+    
+} */
+
 
 @media (max-width: 600px) {
   .grid {

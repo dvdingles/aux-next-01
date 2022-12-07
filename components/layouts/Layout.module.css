@@ -1,0 +1,16 @@
+.logo_aux{
+  
+    position: relative;
+    left: 11px;
+    top: 11px;
+    max-width: 100%;
+    width: 20%;
+    display: block;
+    /* opcional */ object-fit: cover;        
+    /* opcional */ object-position: center center;
+
+    
+
+    /* border: solid 1px silver; */
+  
+}
