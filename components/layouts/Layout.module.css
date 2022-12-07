@@ -14,3 +14,9 @@
     /* border: solid 1px silver; */
   
 }
+
+.footer{
+    position: relative;
+    top: 333px;
+    background-color: silver;
+}
